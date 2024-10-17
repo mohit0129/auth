@@ -19,7 +19,7 @@
 // db.js
 const mongoose = require('mongoose');
 
-const uri = 'mongodb+srv://imohit313:12345@cluster.nea9r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster';
+const uri = 'mongodb+srv://mohit10209:<db_password>@cluster.iqj4l.mongodb.net/?retryWrites=true&w=majority&appName=Cluster';
 // const uri = 'mongodb://localhost:27017';
 
 // Connect to MongoDB Atlas
